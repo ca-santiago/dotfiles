@@ -174,8 +174,8 @@ gaps inner 4
 
 ##### Commands
 exec setxkbmap -layout latam
-exec_always --no-startup-id xsetroot -solid "#BDAE93"
+exec_always --no-startup-id xsetroot -solid "#ffffff"
 
-bindsym $mod+Shift+n exec flameshot full -c -p ~/Pictures/captures -d 2000
+#bindsym $mod+Shift+n exec flameshot full -c -p ~/Pictures/captures -d 2000
 
 
